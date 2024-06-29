@@ -1,2 +1,2 @@
 # ECG_Classification
-学习transformer期间做的医学心电图信号四分类任务
+学习transformer期间做的医学心电图信号四分类任务，参考了FusingTransformerModelwithTemporalFeaturesforECGHeartbeatClassification-master这个项目的代码
